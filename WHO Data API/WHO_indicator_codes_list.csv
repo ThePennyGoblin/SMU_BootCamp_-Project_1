@@ -1,5 +1,6 @@
-Indicator Code,Indicator Name,URL
-SA_0000001476,Alcohol expenditure as a per cent of total household expenditure,https://ghoapi.azureedge.net/api/SA_0000001476
-SA_0000001398,"Alcohol, consumption of pure alcohol by type of beverage (%)",https://ghoapi.azureedge.net/api/SA_0000001398
-SA_0000001732,New types of alcoholic beverages emerging,https://ghoapi.azureedge.net/api/SA_0000001732
-SA_0000001523,"Prices for alcoholic beverages (average, US$)",https://ghoapi.azureedge.net/api/SA_0000001523
+VAR NAME,Indicator Code,Indicator Name,URL,,
+url,SA_0000001476,Alcohol expenditure as a per cent of total household expenditure,https://ghoapi.azureedge.net/api/SA_0000001476,,
+url1,SA_0000001398,"Alcohol, consumption of pure alcohol by type of beverage (%)",https://ghoapi.azureedge.net/api/SA_0000001398,,
+url2,SA_0000001732,New types of alcoholic beverages emerging,https://ghoapi.azureedge.net/api/SA_0000001732,,
+url3,SA_0000001523,"Prices for alcoholic beverages (average, US$)",https://ghoapi.azureedge.net/api/SA_0000001523,,
+url4,WHOSIS_000002,Healthy life expectancy (HALE) at birth (years),https://ghoapi.azureedge.net/api/WHOSIS_000002,,
