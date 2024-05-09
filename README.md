@@ -1,28 +1,28 @@
 # SMU_BootCamp_-Project_1
-This is the First Project for the SMU bootcamp 
 
-Proposal:
-World alcohol consumption per capita by Country and type of alcohol compared to GDP, life expectancy.
-What insights can we gain? Are income, life expectancy,  and alcohol consumption correlated?
+"Bar" Graphs -- Global Alcohol Consumption 
 
-Goals
-What are the demographics of consumers who purchase alcohol?
-How are these demographics changing over time?
-How do consumer preferences vary across different demographics? (age, gender, income, etc.)
+# Proposal:
+
+# Goals
+- Are income, life expectancy,  and alcohol consumption correlated?
+- What are the demographics of consumers who purchase alcohol?
+- How are these demographics changing over time?
+- How do consumer preferences vary across different demographics? (age, gender, income, etc.)
+- How does this relate to household income and the price of alcohol?
 
 
-Data Sets:
-APIs
-https://genderdata.worldbank.org/en/indicator/sh-alc-pcap-li
-https://www.who.int/data/gho/info/gho-odata-api
-drinks.csv (from Nigel)
+# At least 2x visualizations per person:
+- Caite and Kelley - maps and heat maps
+- Nigel- Bar
+- Line- Jeffrey
+- Scatter- Josh
 
-At least 2x visualizations per person:
-Caite- maps and heat maps
-Nigel- Bar
-Line- Jeffrey
-Scatter- Josh
 
+# Resources
+- https://genderdata.worldbank.org/en/indicator/sh-alc-pcap-li
+- https://www.who.int/data/gho/info/gho-odata-api
+- "drinks.csv" https://gist.github.com/aegorenkov/f7f0f8d6e9cc17ca9774572e224e2ad1
 
 Resources
 Total.csv-- World Bank Consumption Per Capita (needs http) 
