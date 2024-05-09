@@ -2,8 +2,6 @@
 
 "Bar" Graphs -- Global Alcohol Consumption 
 
-# Proposal:
-
 # Goals
 - Are income, life expectancy,  and alcohol consumption correlated?
 - What are the demographics of consumers who purchase alcohol?
@@ -22,9 +20,10 @@
 # Resources
 - https://genderdata.worldbank.org/en/indicator/sh-alc-pcap-li
 - https://www.who.int/data/gho/info/gho-odata-api
-- "drinks.csv" https://gist.github.com/aegorenkov/f7f0f8d6e9cc17ca9774572e224e2ad1
+- "drinks.csv" https://gist.github.com/aegorenkov/f7f0f8d6e9cc17ca9774572e224e2ad14
 
-Resources
-Total.csv-- World Bank Consumption Per Capita (needs http) 
-drinks.csv---
-WHO- pending
+# Conclusions
+
+# Potential Use Cases
+
+# Limitations
