@@ -1,17 +1,12 @@
-VAR NAME,df name CSV,Indicator Code,Indicator Name,URL,Notes,
+VAR NAME,df name CSV,Indicator Code,Indicator Name,URL,Notes,USE?
 url,df_0,SA_0000001476,Alcohol expenditure as a per cent of total household expenditure,https://ghoapi.azureedge.net/api/SA_0000001476,1990-2017,USE
 url1,df_1,SA_0000001398,"Alcohol, consumption of pure alcohol by type of beverage (%)",https://ghoapi.azureedge.net/api/SA_0000001398,2016 ONLY,
 url2,df_2,SA_0000001732,New types of alcoholic beverages emerging,https://ghoapi.azureedge.net/api/SA_0000001732,"2012 ONLY-- do not use, USELESS",
 url3,df_3,SA_0000001523,"Prices for alcoholic beverages (average, US$)",https://ghoapi.azureedge.net/api/SA_0000001523,2012 ONLY,
 url4,df_4,WHOSIS_000002,Healthy life expectancy (HALE) at birth (years),https://ghoapi.azureedge.net/api/WHOSIS_000002,"2000, 2010, 2015, 2019 ",USE
 url5,df_5,SA_0000001822,"Alcohol, total per capita (15+) consumption (in litres of pure alcohol) with 95%CI",https://ghoapi.azureedge.net/api/SA_0000001822,2018 ONLY,USE
-url6,df_6,SA_0000001398,"Alcohol, consumption of pure alcohol by type of beverage (%)",https://ghoapi.azureedge.net/api/SA_0000001398,2018 and 2020 ONLY,USE
-url7,df_7,TAXBEV_MOSTSOLDSPIRIT,Most sold type of spirit,https://ghoapi.azureedge.net/api/TAXBEV_MOSTSOLDSPIRIT,"2000, 2010, 2015, 2019 ",USE
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-DO NOT USE,,,,,,
-url8,df_8,SA_0000001400_ARCHIVED,"Alcohol, recorded per capita (15+) consumption (in litres of pure alcohol)",https://ghoapi.azureedge.net/api/SA_0000001400_ARCHIVED,,
-url9,df_9,SA_0000001688,"Alcohol, total per capita (15+) consumption (in litres of pure alcohol) (SDG Indicator 3.5.2)",https://ghoapi.azureedge.net/api/SA_0000001688,,
-url10,df_10,SA_0000001398_ARCHIVED,"Alcohol, consumption of pure alcohol by type of beverage (%)",https://ghoapi.azureedge.net/api/SA_0000001398_ARCHIVED,,
+url6,df_6,SA_0000001398,"Alcohol, consumption of pure alcohol by type of beverage (%)",https://ghoapi.azureedge.net/api/SA_0000001398,2016 ONLY ,USE
+url7,df_7,TAXBEV_MOSTSOLDSPIRIT,Most sold type of spirit,https://ghoapi.azureedge.net/api/TAXBEV_MOSTSOLDSPIRIT,2022 ONLY,USE
+url8,df_8,SA_0000001400_ARCHIVED,"Alcohol, recorded per capita (15+) consumption (in litres of pure alcohol)",https://ghoapi.azureedge.net/api/SA_0000001400_ARCHIVED,1960-2016,USE
+url9,df_9,SA_0000001688,"Alcohol, total per capita (15+) consumption (in litres of pure alcohol) (SDG Indicator 3.5.2)",https://ghoapi.azureedge.net/api/SA_0000001688,"2000, 2010, 2015, 2019",USE
+url10,df_10,SA_0000001398_ARCHIVED,"Alcohol, consumption of pure alcohol by type of beverage (%)",https://ghoapi.azureedge.net/api/SA_0000001398_ARCHIVED,GUYANA ONLY>>> DONOTUSE,
