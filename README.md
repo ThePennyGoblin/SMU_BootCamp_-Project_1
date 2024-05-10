@@ -31,9 +31,8 @@
 - https://genderdata.worldbank.org/en/indicator/sh-alc-pcap-li
 - https://www.who.int/data/gho/info/gho-odata-api
 - "drinks.csv" https://gist.github.com/aegorenkov/f7f0f8d6e9cc17ca9774572e224e2ad14
+- PLotly map-making help #https://www.datacamp.com/tutorial/making-map-in-python-using-plotly-library-guide
 
 # Conclusions
-
-# Potential Use Cases
 
 # Limitations
