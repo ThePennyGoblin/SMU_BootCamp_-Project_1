@@ -2,6 +2,16 @@
 
 "Bar" Graphs -- Global Alcohol Consumption 
 
+# Back Story
+- We have a excess of vodka that was suppose to be included in hand sanatizers so what we decided to do is to sell as a drink
+
+# Goals
+- Vodka Name: *******
+- Target Location: 
+- Target Specific Countries:
+- Cost of the Vodka:
+  
+
 # Goals
 - Are income, life expectancy,  and alcohol consumption correlated?
 - What are the demographics of consumers who purchase alcohol?
