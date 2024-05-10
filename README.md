@@ -6,7 +6,7 @@
 - We have a excess of vodka that was suppose to be included in hand sanatizers so what we decided to do is to sell as a drink
 
 # Goals
-- Vodka Name: Astrixk
+- Vodka Name: Astrixkz
 - Target Location: 
 - Target Specific Countries:
 - Cost of the Vodka:
