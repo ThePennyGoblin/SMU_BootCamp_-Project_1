@@ -2,30 +2,16 @@
 
 "Bar" Graphs -- Global Alcohol Consumption 
 
-# Back Story
-- We have a excess of vodka that was suppose to be included in hand sanatizers so what we decided to do is to sell as a drink
+# Proposal
+- A small (2ML/ year) American Vodka producer looking to expand globally.  Where should they start to position themselves and what might next steps be? 
 
 # Goals
-- Vodka Name: Astrixkz
-- Target Location: 
-- Target Specific Countries:
-- Cost of the Vodka:
+- 3 target regions, countries, and price 
+- How does gender and age affect consumption patterns?
+- What do household expenditures on alcohol look like? Is there possible room for growth?
   
-
-# Goals
-- Are income, life expectancy,  and alcohol consumption correlated?
-- What are the demographics of consumers who purchase alcohol?
-- How are these demographics changing over time?
-- How do consumer preferences vary across different demographics? (age, gender, income, etc.)
-- How does this relate to household income and the price of alcohol?
-
-
-# At least 2x visualizations per person:
-- Caite and Kelley - maps and heat maps
-- Nigel- Bar
-- Line- Jeffrey
-- Scatter- Josh
-
+# Contributors
+- Caite Green, Josh Still
 
 # Resources
 - https://genderdata.worldbank.org/en/indicator/sh-alc-pcap-li
@@ -34,5 +20,7 @@
 - PLotly map-making help #https://www.datacamp.com/tutorial/making-map-in-python-using-plotly-library-guide
 
 # Conclusions
+- Targeting Canada, Australia, and Estonia with expected pricing noted in slide deck. 
 
 # Limitations
+- noted in slide deck.  
