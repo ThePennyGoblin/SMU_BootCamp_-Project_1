@@ -1,0 +1,2 @@
+Id,IndicatorCode,SpatialDimType,SpatialDim,ParentLocationCode,TimeDimType,ParentLocation,Dim1Type,TimeDim,Dim1,Dim2Type,Dim2,Dim3Type,Dim3,DataSourceDimType,DataSourceDim,Value,NumericValue,Low,High,Comments,Date,TimeDimensionValue,TimeDimensionBegin,TimeDimensionEnd
+3759040,SA_0000001398_ARCHIVED,COUNTRY,GUY,AMR,YEAR,Americas,ALCOHOLTYPE,2010,ALCOHOLTYPE_SA_WINE,,,,,,,0.3,0.3,,,,2018-09-27T09:31:35+02:00,2010,2010-01-01T00:00:00+01:00,2010-12-31T00:00:00+01:00
