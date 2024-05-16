@@ -1,0 +1,4 @@
+﻿STRUCTURE,STRUCTURE_ID,STRUCTURE_NAME,ACTION,COUNTRY,Country,SEX,Gender,AGE,Age,TIME_PERIOD,Year,Population,Total Alcohol Cosumption per capita,Total Alcohol Consumption,Spirits %,Total Spirits,Asterisk Market share ,Asterisk Market %
+DATAFLOW,OECD:DF_EDU_DEM(1.0),Population data,I,AUS,Australia,_T,Total,_T,Total,2021,,25688079,9.71,249431247.1,1.25,3117890.59,800000,0.26
+DATAFLOW,OECD:DF_EDU_DEM(1.0),Population data,I,EST,Estonia,_T,Total,_T,Total,2021,,1330068,8.2,10906557.6,7.72,841986.25,800000,0.95
+DATAFLOW,OECD:DF_EDU_DEM(1.0),Population data,I,CAN,Canada,_T,Total,_T,Total,2021,,38043450,15.35,583966957.5,2.1,12263306.11,800000,0.07
